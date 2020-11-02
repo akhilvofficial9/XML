@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<KIET>
+<DEPARTMENT>
+
+<MCA>
+
+<STUDENT_INFO>
+<NAME>Akhil Verma</NAME>
+<SECTION>A</SECTION>
+<SEMESTER>III</SEMESTER>
+<MARKS>
+<WT>80</WT>
+<OS>70</OS>
+<DAA>60</DAA>
+</MARKS>
+</STUDENT_INFO>
+
+</MCA>
+
+</DEPARTMENT>
+</KIET> 
